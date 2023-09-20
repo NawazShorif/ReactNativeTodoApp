@@ -6,7 +6,6 @@ This is a simple Todo list application built using React Native. It allows users
 <p float="left">
   <img src="https://user-images.githubusercontent.com/16750382/268820727-071662bb-8a92-479b-84f7-7288889519b2.JPEG" width="100" />
    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820682-bd3dba76-9dd7-4eb7-bc32-069f9ba318b7.JPEG" width="100" />
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820702-3d3d6727-b388-44fe-9043-59dc7ab27304.JPEG" width="100" />
    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820696-e4f95eef-7aee-42c4-a7af-af5c151cbbed.JPEG" width="100" />
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820705-0c200780-7df7-4ad3-a3f3-5d6e4da3e97a.JPEG" width="100" />
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820709-42355c8c-af94-410d-ac7a-7fbad3d20d39.JPEG" width="100" />
