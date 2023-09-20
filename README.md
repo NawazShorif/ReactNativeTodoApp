@@ -65,9 +65,9 @@ cd ReactNativeTodoApp
 yarn install
 ```
 - Start the Expo development server:
-```bash
-yarn start
-```
+
+### `yarn start`
+
 
 Open the Expo Go app on your Android or iOS device. Scan the QR code displayed in the terminal to open the app.
 
