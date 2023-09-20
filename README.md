@@ -3,8 +3,12 @@
 ## Overview
 
 This is a simple Todo list application built using React Native. It allows users to create, update, and delete todo after complete expo local authentication. This README file provides instructions on how to set up and run the app, as well as an overview of its features and technologies used.
-
-![1](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/071662bb-8a92-479b-84f7-7288889519b2)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/16750382/268820727-071662bb-8a92-479b-84f7-7288889519b2.JPEG" width="100" />
+   <img src="https://user-images.githubusercontent.com/16750382/268820727-071662bb-8a92-479b-84f7-7288889519b2.JPEG" width="100" />
+   <img src="https://user-images.githubusercontent.com/16750382/268820727-071662bb-8a92-479b-84f7-7288889519b2.JPEG" width="100" />
+   <img src="https://user-images.githubusercontent.com/16750382/268820727-071662bb-8a92-479b-84f7-7288889519b2.JPEG" width="100" />
+</p>
 ![2](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/bd3dba76-9dd7-4eb7-bc32-069f9ba318b7)
 ![3](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/3d3d6727-b388-44fe-9043-59dc7ab27304)
 ![4](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/e4f95eef-7aee-42c4-a7af-af5c151cbbed)
