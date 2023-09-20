@@ -8,14 +8,14 @@ This is a simple Todo list application built using React Native. It allows users
    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820682-bd3dba76-9dd7-4eb7-bc32-069f9ba318b7.JPEG" width="100" />
    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820702-3d3d6727-b388-44fe-9043-59dc7ab27304.JPEG" width="100" />
    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820696-e4f95eef-7aee-42c4-a7af-af5c151cbbed.JPEG" width="100" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820705-0c200780-7df7-4ad3-a3f3-5d6e4da3e97a.JPEG" width="100" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820709-42355c8c-af94-410d-ac7a-7fbad3d20d39.JPEG" width="100" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820715-06def16f-3f3d-4209-9073-f2d2e15ee975.JPEG" width="100" />
+   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820720-908fc1cc-304b-42d0-8278-4748f36be30e.JPEG" width="100" />
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820724-b9d54d47-67bc-44ea-952e-833bb3e9a50a.JPEG" width="100" />
+     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820731-ff38e0a7-9ad6-4448-a48d-75c0fa867692.JPEG" width="100" />
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/16750382/268820736-bafcff00-6267-44b3-ac1e-a2fdf04f5c4b.JPEG" width="100" />
 </p>
-![5](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/0c200780-7df7-4ad3-a3f3-5d6e4da3e97a)
-![6](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/42355c8c-af94-410d-ac7a-7fbad3d20d39)
-![7](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/06def16f-3f3d-4209-9073-f2d2e15ee975)
-![8](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/908fc1cc-304b-42d0-8278-4748f36be30e)
-![9](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/b9d54d47-67bc-44ea-952e-833bb3e9a50a)
-![10](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/ff38e0a7-9ad6-4448-a48d-75c0fa867692)
-![11](https://github.com/NawazShorif/ReactNativeTodoApp/assets/16750382/bafcff00-6267-44b3-ac1e-a2fdf04f5c4b)
 
 
 ## Features
